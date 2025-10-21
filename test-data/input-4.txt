@@ -1,0 +1,4 @@
+#Firing two torpedos from the primary bay
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
