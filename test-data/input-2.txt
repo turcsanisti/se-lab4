@@ -1,0 +1,3 @@
+#If a bay malfunctions, the other one isn't fired
+GT4500,1,1,1,1
+TORPEDO,SINGLE
